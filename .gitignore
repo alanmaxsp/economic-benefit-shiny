@@ -1,15 +1,14 @@
-# Basura de R / RStudio
+# R / RStudio
 .Rhistory
 .Rproj.user/
 .RData
 .Ruserdata
 *.Rproj
 
-# renv (dejamos renv.lock, ignoramos librerías locales)
+# renv 
 renv/staging/
 renv/library/
 
-# NUNCA subir tokens/ids de deploy
 rsconnect/
 
 # OS/editor
