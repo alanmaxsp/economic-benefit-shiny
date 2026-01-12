@@ -2,10 +2,9 @@
 
 This repository contains the Shiny application developed for the manuscript:
 
-**"Economic benefit of genetic progress in five wool sheep breeds of Argentina"**  
-*Mueller et al., 2025 (submitted).*
-
-Once the manuscript is accepted, a link to the published article will be added here.
+Mueller, J.P. et al. 2026. **"Economic Benefit of Genetic Progress in Five Wool Sheep Breeds of Argentina."**
+*Journal of Animal Breeding and Genetics* 1–11. 
+https://doi.org/10.1111/jbg.70040.
 
 ---
 
